@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">おすすめの映画のチラシ</string>
+    <string name="button_text">緋色の不在証明</string>
+    <string name="button2_text">ゼロの執行人</string>
+    <string name="button3_text">から紅のラブレター</string>
+    <string name="button4_text">純黒の悪夢</string>
+    <string name="button5_text">オーディナル・スケール</string>
+    <string name="button6_text">ブロリー</string>
+    <string name="button7_text">復活の「F」</string>
+    <string name="button8_text">神と神</string>
+    <string name="description">image</string>
+    <string name="image_1">a</string>
+    <string name="title_text">・名探偵コナン・</string>
+    <string name="title2_text">・SAO・</string>
+    <string name="title3_text">・ドラゴンボール超・</string>
+    <string name="title4_text">・ドラゴンボールZ・</string>
+    <string name="blog_text">ブログはこちら</string>
+    <string name="text_label">私のブログ(緋色の不在証明):http://n-naosan.com/2021/02/19/%e7%b7%8b%e8%89%b2%e3%81%ae%e4%b8%8d%e5%9c%a8%e8%a8%bc%e6%98%8e/</string>
+    <string name="text2_label">私のブログ(ゼロの執行人):http://n-naosan.com/2021/02/19/%e3%82%bc%e3%83%ad%e3%81%ae%e5%9f%b7%e8%a1%8c%e4%ba%ba/</string>
+    <string name="text3_label">私のブログ(から紅のラブレター):https://n-naosan.com/2021/02/19/%e3%81%8b%e3%82%89%e7%b4%85%e3%81%ae%e3%83%a9%e3%83%96%e3%83%ac%e3%82%bf%e3%83%bc/</string>
+    <string name="text4_label">私のブログ(純黒の悪夢):https://n-naosan.com/2021/02/19/%e7%b4%94%e9%bb%92%e3%81%ae%e6%82%aa%e5%a4%a2/</string>
+    <string name="text5_label">私のブログ(オーディナル・スケール):https://n-naosan.com/2021/02/21/%e3%82%aa%e3%83%bc%e3%83%87%e3%82%a3%e3%83%8a%e3%83%ab%e3%83%bb%e3%82%b9%e3%82%b1%e3%83%bc%e3%83%ab/</string>
+    <string name="text6_label">私のブログ(ブロリー):https://n-naosan.com/2021/02/19/%e7%b4%94%e9%bb%92%e3%81%ae%e6%82%aa%e5%a4%a2/</string>
+    <string name="text7_label">私のブログ(復活の「F」):https://n-naosan.com/2021/02/19/%e7%b4%94%e9%bb%92%e3%81%ae%e6%82%aa%e5%a4%a2/</string>
+    <string name="text8_label">私のブログ(神と神):https://n-naosan.com/2021/02/19/%e7%b4%94%e9%bb%92%e3%81%ae%e6%82%aa%e5%a4%a2/</string>
+</resources>
