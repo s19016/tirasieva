@@ -25,8 +25,8 @@ public class buttonActivity extends Activity {
 
         Picasso.get()
 
-                .load("https://n-naosan.com/wp-content/uploads/2021/02/conan2-1.jpg")
-                        .resize(700, 1020) //表示サイズ指定
+                .load("https://n-naosan.com/wp-content/uploads/2021/02/%E3%81%A1%E3%82%89%E3%81%97-1-2.jpg")
+                        .resize(1620, 1120) //表示サイズ指定
                         .centerCrop() //resizeで指定した範囲になるよう中央から切り出し
                         .into(image); //imageViewに流し込み
     }
